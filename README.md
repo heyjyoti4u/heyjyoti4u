@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate software engineer who loves building scal
 
 ## 🌐 Let's Connect!
 - 💼 [LinkedIn](www.linkedin.com/in/jyotiranjan-mohanty-b8a655308)  
-- ✉️ Reach out: jyotimohanty289@gmail.com  
+- ✉️ [Gmail](jyotimohanty289@gmail.com)
 
 ---
 
