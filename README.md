@@ -1,5 +1,4 @@
 
-🚀 **Data Analyst** | **Software Engineer | Problem Solver | Tech Enthusiast**
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
@@ -16,6 +15,8 @@
 </div>
 
 ---
+🚀 **Data Analyst** | **Software Engineer | Problem Solver | Tech Enthusiast**
+
 
 ## 🛠️ Tech Stack & Interests
 - 💻 **Languages**: Java, Python, JavaScript, php, c
