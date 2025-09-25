@@ -1,9 +1,5 @@
-# Hi there, I'm Jyoti 👋
- 
+
 🚀 **Data Analyst** | **Software Engineer | Problem Solver | Tech Enthusiast**
-
-Welcome to my GitHub! I'm a passionate software engineer who loves building scalable systems, writing clean code, converting datasets into wonderful insights and constantly learning new things.
-
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
