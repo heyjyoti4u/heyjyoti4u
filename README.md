@@ -1,4 +1,3 @@
-
 <div align="left">
   <b><pwn>🔴 🟡 🟢</pwn></b>
 </div>
@@ -10,30 +9,28 @@
 <br>
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=herin7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=herin7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ---
-🚀 **Data Analyst** | **Software Engineer | Problem Solver | Tech Enthusiast**
 
+🚀 **Data Analyst | Software Engineer | Problem Solver | Tech Enthusiast**
 
 ## 🛠️ Tech Stack & Interests
-- 💻 **Languages**: Java, Python, JavaScript, php, c
-- 📊 **Data Analytics**:SQL, Excel,R 
-- 📈 **Visualization**: Plotly, Power BI , Tableau
-- ☁️ **Cloud**: AWS, GCP basics   
-- 🔧 **Tools**: Docker, Git, GitHub Actions, VSCode, Intelij  
-- 📈 **Other**: REST APIs, Microservices, CI/CD, Agile Practices
+- 💻 **Languages**: Java, Python, JavaScript, PHP, C  
+- 📊 **Data Analytics**: SQL, Excel, R  
+- 📈 **Visualization**: Plotly, Power BI, Tableau  
+- ☁️ **Cloud**: AWS, GCP (Basics)  
+- 🔧 **Tools**: Docker, Git, GitHub Actions, VS Code, IntelliJ  
+- 📈 **Other**: REST APIs, Microservices, CI/CD, Agile Practices  
 
 ## 📌 Current Focus
-- Building Strong Data Analytical Skills  
-- Creating Asthetic Data Visualizations
-
+- Building strong data analytics skills  
+- Creating aesthetic data visualizations  
 
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn](www.linkedin.com/in/jyotiranjan-mohanty-b8a655308)  
-- ✉️ [Gmail](jyotimohanty289@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jyotiranjan-mohanty-b8a655308)  
+- ✉️ [Gmail](mailto:jyotimohanty289@gmail.com)
 
 ---
 
