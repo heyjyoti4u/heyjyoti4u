@@ -1,16 +1,10 @@
-<div align="left">
-  <b><pwn>🔴 🟡 🟢</pwn></b>
-</div>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=$+Hey,+I'm+Jyotiranjan+Mohanty+:)&font=Fira%20Code&center=true&width=440&height=45&color=09e611&vCenter=true&pause=10&size=22" />
 </div>
 
-<br>
+---
 
- 
-
----🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**
+🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
 ## 🛠️ Tech Stack & Interests
 - 💻 **Languages**: JavaScript, TypeScript, Python
@@ -33,4 +27,5 @@
 - ✉️ [Gmail](mailto:jyotimohanty289@gmail.com)
 
 ---
+
 _"Code is like humor. When you have to explain it, it's bad." – Cory House_
