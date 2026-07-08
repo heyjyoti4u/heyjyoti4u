@@ -12,19 +12,18 @@
 
 ---
 
-🚀 **Data Analyst | Software Engineer | Problem Solver | Tech Enthusiast**
+🚀 **Software Developer | Problem Solver | Tech Enthusiast**
 
 ## 🛠️ Tech Stack & Interests
-- 💻 **Languages**: Java, Python, JavaScript, PHP, C  
-- 📊 **Data Analytics**: SQL, Excel, R  
-- 📈 **Visualization**: Plotly, Power BI, Tableau  
-- ☁️ **Cloud**: AWS, GCP (Basics)  
+- 💻 **Languages**: Javascript, Next.js, Node.js  
+- 📊 **Database**:Postgre SQL, Mongodb 
+- ☁️ **Cloud**: Firabase and supabase
 - 🔧 **Tools**: Docker, Git, GitHub Actions, VS Code, IntelliJ  
 - 📈 **Other**: REST APIs, Microservices, CI/CD, Agile Practices  
 
 ## 📌 Current Focus
-- Building strong data analytics skills  
-- Creating aesthetic data visualizations  
+- Buidling production ready web applications
+- Creating scalable backend services for both client and admin side
 
 ## 🌐 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/jyotiranjan-mohanty-b8a655308)  
