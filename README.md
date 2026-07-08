@@ -10,25 +10,27 @@
 
  
 
----
-
-🚀 **Software Developer | Problem Solver | Tech Enthusiast**
+---🚀 **Full-Stack Developer | Problem Solver | Tech Enthusiast**
 
 ## 🛠️ Tech Stack & Interests
-- 💻 **Languages**: Javascript, Next.js, Node.js  
-- 📊 **Database**:Postgre SQL, Mongodb 
-- ☁️ **Cloud**: Firabase and supabase
-- 🔧 **Tools**: Docker, Git, GitHub Actions, VS Code, IntelliJ  
-- 📈 **Other**: REST APIs, Microservices, CI/CD, Agile Practices  
+- 💻 **Languages**: JavaScript, TypeScript, Python
+- ⚙️ **Frameworks/Runtime**: Next.js, React, Node.js
+- 📊 **Databases**: PostgreSQL, MongoDB
+- ☁️ **Cloud**: Firebase, Supabase
+- 🔧 **Tools**: Docker, Git, GitHub Actions, VS Code, IntelliJ
+- 📈 **Other**: REST APIs, Microservices, CI/CD, Agile Practices
 
 ## 📌 Current Focus
-- Buidling production ready web applications
-- Creating scalable backend services for both client and admin side
+- Building production-ready web applications end to end
+- Creating scalable backend services for both client and admin sides
+
+## 🚀 Featured Projects
+- 🍽️ [Cafe QR Ordering — Customer App](https://github.com/heyjyoti4u/cafepos-customer) — QR-based ordering system for restaurant customers
+- 🧾 [Cafe POS — Admin Dashboard](https://github.com/heyjyoti4u/cafepos-admin) — Billing, inventory & order management for restaurant owners
 
 ## 🌐 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/jyotiranjan-mohanty-b8a655308)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jyotiranjan-mohanty-b8a655308)
 - ✉️ [Gmail](mailto:jyotimohanty289@gmail.com)
 
 ---
-
-_“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
+_"Code is like humor. When you have to explain it, it's bad." – Cory House_
